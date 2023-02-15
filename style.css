@@ -9,7 +9,6 @@
     margin:0;
     padding:0;
     box-sizing: border-box;
-    font-family: 'Halant', serif;
 
     width: 100vw;
     height: 100vh;
@@ -28,6 +27,8 @@ display: block;
     font-size: 2rem;
     font-weight: 700;
     text-align: center;
+    font-family: 'Halant', serif;
+
   }
 
    table {
@@ -46,6 +47,9 @@ display: block;
     font-size: 1.3rem;
     padding: 6px 60px 6px 10px;
 
+    font-family: 'Halant', serif;
+
+
   }
 
   td {
@@ -54,7 +58,8 @@ display: block;
     font-size: 1.1rem;
     border: 1px solid #000;
     font-weight: 500;
-    padding: 
+    font-family: 'Manrope', sans-serif;
+    
 
   }
 
